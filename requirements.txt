@@ -1,0 +1,12 @@
+opencv-python
+face-recognition
+speechrecognition
+pyttsx3
+numpy
+torch
+torchvision
+pillow
+easyocr
+geopy
+requests
+PyQt5
